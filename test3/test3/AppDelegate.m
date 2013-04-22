@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Dave Duprey. All rights reserved.
 //
 
+// test comment for git
+
 #import "AppDelegate.h"
 
 #import "ViewController.h"
